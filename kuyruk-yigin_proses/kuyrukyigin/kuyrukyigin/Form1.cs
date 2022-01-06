@@ -14,7 +14,7 @@ namespace kuyrukyigin
     {
         public Form()
         {
-            // Hocam sadece yığına ekleme, kuyrukta sıralamada ve işlemci hızında sıkıntı var geri kalanı çalışıyor.
+            
             InitializeComponent();
         }
 
