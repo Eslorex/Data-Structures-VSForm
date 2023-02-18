@@ -23,10 +23,7 @@ namespace BinaryTree
             public Node sol;
             public Node sag;
         }
-        /*
-        Hocam, buyuk denen değişken değerin büyüklüğü veya küçüklüğü 
-        ile ilgili bir şey değil, 
-        sadece parent öğesinin Türkçe hali.*/
+ 
         public class Agac
         {
             public Node kok;
